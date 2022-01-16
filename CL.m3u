@@ -1,3 +1,11 @@
+#EXTINF:-1,VH1 CLASSIC
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/92/stream.m3u8
+#EXTINF:-1,VH1 HD
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/91/stream.m3u8
+#EXTINF:-1,MTV HITS
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/93/stream.m3u8
+#EXTINF:-1,MTV Live HD
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/94/stream.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV * | CL
