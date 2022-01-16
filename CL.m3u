@@ -198,7 +198,6 @@ https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://www.m3u.cl/logo/1008_Cloud_FM.png", Cloud FM | CL
 https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://www.m3u.cl/logo/1009_Radiomania.png", Radiomania | CL
-https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="1009" tvg-name="Radionervios" tvg-logo="https://www.m3u.cl/logo/1009_Radiomania.png", Radiomania | CL
+http://cdn1.onstream.audio:7003/stream
 
