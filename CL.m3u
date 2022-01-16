@@ -14,11 +14,6 @@ http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png", Mega | CL
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="456" tvg-name="CHV" tvg-logo="https://www.m3u.cl/logo/456_CHV.png", CHV | CL
-https://unlimited1-cl-isp.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://www.m3u.cl/logo/457_Canal_13.png", Canal 13 | CL
-https://cl-canal13-13now-live.ned.media/live.m3u8?PlaylistM3UCL
-https://v2.tustreaming.cl/mastermedia/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.png", FashionTV New York | US
