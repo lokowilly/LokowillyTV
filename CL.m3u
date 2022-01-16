@@ -20,12 +20,6 @@ https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.png", FashionTV Paris | US
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="440" tvg-name="LosDesterrados.cl" tvg-logo="https://www.m3u.cl/logo/440_LosDesterrados_cl.jpg", LosDesterrados.cl | CL
-https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", tevex | CL
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://www.m3u.cl/logo/436_TV_Salud.png", TV Salud | CL
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="460" tvg-name="Top New Radio" tvg-logo="https://www.m3u.cl/logo/460_Top_New_Radio.png", Top New Radio | CL
 https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png", Tele Clasicos | CR
@@ -40,8 +34,6 @@ https://vdohd.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
 https://vdo.mivideo.pro:3446/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png", La Sabrosura TV | CL
-https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music | PE
@@ -50,22 +42,8 @@ https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV | MX
-https://stream8.mexiserver.com:443/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://www.m3u.cl/logo/18_Corazon_Llanero.png", Corazon Llanero | VE
-https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://www.m3u.cl/logo/15_Eurolatina_TV.png", Eurolatina TV | ES
-https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV | PE
-https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV | ES
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg", Karibeña TV | PE
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png", m2o TV | IT
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia | PE
-https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png", Music Top | AR
