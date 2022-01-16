@@ -96,6 +96,8 @@ https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
 https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://www.m3u.cl/logo/954_MCRT_Top_Hits.png", MCRT Top Hits | CA
 https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1008" tvg-name="Cloud FM" tvg-logo="https://www.m3u.cl/logo/1008_Cloud_FM.png", Cloud FM | CL
+https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1009" tvg-name="Radionervios" tvg-logo="https://cdn.webrad.io/images/logos/emisora-cl/nervios.png"
 http://cdn1.onstream.audio:7003/stream/playlist.m3u8?PlaylistM3UCL
 
